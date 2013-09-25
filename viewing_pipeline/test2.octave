@@ -1,0 +1,72 @@
+# Created by Octave 3.6.4, Fri May 10 03:37:09 2013 MDT <michael@squall>
+# name: e_cam
+# type: matrix
+# rows: 1
+# columns: 3
+ 0 0 0
+
+
+# name: g_cam
+# type: matrix
+# rows: 1
+# columns: 3
+ 0 0 -1
+
+
+# name: t_cam
+# type: matrix
+# rows: 1
+# columns: 3
+ 0 1 0
+
+
+# name: Pixel
+# type: matrix
+# rows: 4
+# columns: 1
+ 0
+ 0
+ 2
+ 1
+
+
+# name: n_x
+# type: scalar
+800
+
+
+# name: n_y
+# type: scalar
+600
+
+
+# name: l
+# type: scalar
+4
+
+
+# name: r
+# type: scalar
+-4
+
+
+# name: b
+# type: scalar
+-3
+
+
+# name: t
+# type: scalar
+3
+
+
+# name: n
+# type: scalar
+22
+
+
+# name: f
+# type: scalar
+7
+
+
